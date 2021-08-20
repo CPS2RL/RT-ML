@@ -1,4 +1,4 @@
-# Installing LITMUS^RT on Raspberry Pi
+# INSTALLING LITMUS^RT on Raspberry Pi
 This guide has been developed to guide systems researchers on extending the RaspbianOS with LITMUS^RT to be compatible with the Rapsberry Pi Model B+
 
 ## Installing RaspbianOS on microSD card
