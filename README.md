@@ -1,4 +1,4 @@
-# Machine Learning for Real-Time Edge Computing (ure2021-rt-ml)
+# Machine Learning for Real-Time Edge Computing
 Research links and notes related to Wichita State University's 2021 Undergraduate Research Experience:
 
 * [Installing LITMUS](/os/install_litmus_pi.md)
